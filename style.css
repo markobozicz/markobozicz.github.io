@@ -1,0 +1,106 @@
+:root{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    --col-blue: #203088;
+    --col-darkblue: #202648;
+    --col-gold: #D4C676;
+    --col-white: #ffffff;
+    --col-bluetransparent: #101741b0;
+    --borderRadius: 10px;
+}
+body{
+    color: var(--col-white);
+    background-color:var(--col-blue);
+}
+.p{
+    font-size: 2em;
+}
+h1{
+    font-size: 100%;
+    float: left;
+}
+.fullSize{
+    padding: 0.5%;
+    width: 95%;
+    height: 95%;
+    /* background-color: var(--col-bluetransparent); */
+}
+.horizontalContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin: auto ;
+
+}
+.verticalContainer{
+    flex-direction: column;
+    justify-content: space-between;
+    display: flex;
+}
+.halfWidth{
+    width: 49%;
+    height: 100%;
+    /* background-color: var(--col-bluetransparent); */
+
+}
+.quarterHeight{
+    width: 100%;
+    height: 20%;
+    background-color: var(--col-bluetransparent);
+    border-radius: var(--borderRadius);
+}
+.halfHeight{
+    width: 100%;
+    height: 49%;
+    background-color: var(--col-bluetransparent);
+    border-radius: var(--borderRadius);
+
+}
+.q3Height{
+    width: 100%;
+    height: 79%;
+    background-color: var(--col-bluetransparent);
+    border-radius: var(--borderRadius);
+
+}
+
+/* background */
+.bg {
+    animation:slide 6s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #203088 50%, #152370 50%);
+    bottom:0;
+    left:-50%;
+    opacity:.2;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+}
+
+.bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:7s;
+}
+
+.bg3 {
+    animation-duration:8s;
+}
+@keyframes slide {
+    0% {
+        transform:translateX(-25%);
+    }
+    100% {
+        transform:translateX(25%);
+    }
+}
+
+/* scrollbar */
+body::-webkit-scrollbar{
+    width: 0.1rem;
+}
+body::-webkit-scrollbar-thumb{
+    background: var(--col-darkblue);
+}
+body::-webkit-scrollbar-track{
+    background: var(--col-blue);
+}
