@@ -6,7 +6,7 @@
     "linksToVideo": [
       "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_Cross_Promo_001.mp4"
     ],
-    "priority": 10
+    "priority": 1
   },
   {
     "appName": "Marble Run",
@@ -17,7 +17,7 @@
       "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_002.mp4",
       "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_003.mp4"
     ],
-    "priority": 3
+    "priority": 1
   },
   {
     "appName": "Super Skate Jumper",
@@ -28,7 +28,7 @@
       "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_001.mp4",
       "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_003.mp4"
     ],
-    "priority": 1
+    "priority": 15
   },
   {
     "appName": "Barrel Roller",
