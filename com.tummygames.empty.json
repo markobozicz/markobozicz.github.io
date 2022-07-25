@@ -1,0 +1,106 @@
+[
+  {
+    "key": "applovin id",
+    "value": ""
+  },
+  {
+    "key": "applovin interstitial android",
+    "value": ""
+  },
+  {
+    "key": "applovin rewarded android",
+    "value": ""
+  },
+  {
+    "key": "applovin banner android",
+    "value": ""
+  },
+  {
+    "key": "applovin interstitial ios",
+    "value": ""
+  },
+  {
+    "key": "applovin rewarded ios",
+    "value": ""
+  },
+  {
+    "key": "applovin banner ios",
+    "value": ""
+  },
+  {
+    "key": "gameanalytics key android",
+    "value": ""
+  },
+  {
+    "key": "gameanalytics secret android",
+    "value": ""
+  },
+  {
+    "key": "gameanalytics key ios",
+    "value": ""
+  },
+  {
+    "key": "gameanalytics secret ios",
+    "value": ""
+  },
+  {
+    "key": "facebook appid",
+    "value": ""
+  },
+  {
+    "key": "facebook appid",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 1",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 2",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 3",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 4",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 5",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 10",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 20",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 50",
+    "value": ""
+  },
+  {
+    "key": "adjust event level 100",
+    "value": ""
+  },
+  {
+    "key": "adjust event noads bought",
+    "value": ""
+  },
+  {
+    "key": "adjust event tutorial complete",
+    "value": ""
+  },
+  {
+    "key": "adjust event interstitial shown",
+    "value": ""
+  },
+  {
+    "key": "adjust event rewarded shown",
+    "value": ""
+  }
+]
