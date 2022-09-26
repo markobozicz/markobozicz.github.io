@@ -1,15 +1,17 @@
 [
   {
     "appName": "Volley Beans",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/VolleyBeans/Screenshot-2022-09-26-at-10.37.17.png",
     "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.volleybeans",
     "linkToAppleStore": "https://apps.apple.com/us/app/volley-beans/id1457441561",
     "linksToVideo": [
       "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_Cross_Promo_001.mp4"
     ],
-    "priority": 1000
+    "priority": 4
   },
   {
     "appName": "Marble Run",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/VolleyBeans/Screenshot-2022-09-26-at-10.37.17.png",
     "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.marblerun",
     "linkToAppleStore": "https://apps.apple.com/us/app/marble-run-race/id1582472098",
     "linksToVideo": [
@@ -17,10 +19,11 @@
       "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_002.mp4",
       "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_003.mp4"
     ],
-    "priority": 1
+    "priority": 2
   },
   {
     "appName": "Super Skate Jumper",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/VolleyBeans/Screenshot-2022-09-26-at-10.37.17.png",
     "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.superskatejumper",
     "linkToAppleStore": "https://apps.apple.com/us/app/super-skate-jumper/id1628553716",
     "linksToVideo": [
@@ -28,10 +31,11 @@
       "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_001.mp4",
       "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_003.mp4"
     ],
-    "priority": 1
+    "priority": 3
   },
   {
     "appName": "Barrel Roller",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/VolleyBeans/Screenshot-2022-09-26-at-10.37.17.png",
     "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.barrelroller",
     "linkToAppleStore": "https://apps.apple.com/us/app/barrel-roller/id1525694022",
     "linksToVideo": [
@@ -39,6 +43,18 @@
       "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_002.mp4",
       "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_003.mp4"
     ],
-    "priority": 1
+    "priority": 2
+  },
+  {
+    "appName": "Barrel Roller",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/VolleyBeans/Screenshot-2022-09-26-at-10.37.17.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.barrelroller",
+    "linkToAppleStore": "https://apps.apple.com/us/app/barrel-roller/id1525694022",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_001.mp4",
+      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_002.mp4",
+      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_003.mp4"
+    ],
+    "priority": 2
   }
 ]
