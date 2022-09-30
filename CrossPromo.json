@@ -2,12 +2,12 @@
   {
     "appName": "Volley Beans",
     "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-09-30-at-14.35.19.png",
-    "linkToGoogleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561\t",
-    "linkToAppleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561\t",
+    "linkToGoogleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561",
+    "linkToAppleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561",
     "linksToVideo": [
       "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_Cross_Promo_001.mp4"
     ],
-    "priority": 4
+    "priority": 10
   },
   {
     "appName": "Marble Run",
