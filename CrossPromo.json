@@ -2,47 +2,125 @@
   {
     "appName": "Volley Beans",
     "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-09-30-at-14.35.19.png",
-    "linkToGoogleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561",
-    "linkToAppleStore": "https://app.adjust.com/7m89xcd?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fvolleybeans&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.volleybeans&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1457441561",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.volleybeans",
+    "linkToAppleStore": "https://apps.apple.com/us/app/volley-beans/id1457441561",
     "linksToVideo": [
-      "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_Cross_Promo_001.mp4"
+      "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_MarketingVideo_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_MarketingVideo_CrossPromo_1-1_03.mp4",
+      "https://media.publit.io/file/crosspromo/VolleyBeans/VolleyBeans_MarketingVideo_CrossPromo_1-1_02.mp4"
     ],
-    "priority": 100
+    "priority": 6
   },
   {
     "appName": "Marble Run",
     "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-09-30-at-14.36.02.png",
-    "linkToGoogleStore": "https://app.adjust.com/ybn5cnq?label=CrossPromoClicks&deeplink=myapp%3A%2F%2Fmarblerun&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.marblerun&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1582472098",
-    "linkToAppleStore": "https://app.adjust.com/ybn5cnq?label=CrossPromoClicks&deeplink=myapp%3A%2F%2Fmarblerun&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.marblerun&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1582472098",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.marblerun",
+    "linkToAppleStore": "https://apps.apple.com/us/app/marble-run-race/id1582472098",
     "linksToVideo": [
-      "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_001.mp4",
-      "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_002.mp4",
-      "https://media.publit.io/file/crosspromo/MarbleRun/Marble_Run_Cross_Promo_500px_003.mp4"
+      "https://media.publit.io/file/crosspromo/MarbleRun/MarbleRun_MarketingVideo_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/MarbleRun/MarbleRun_MarketingVideo_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/MarbleRun/MarbleRun_MarketingVideo_CrossPromo_1-1_03.mp4"
     ],
-    "priority": 2
-  },
-  {
-    "appName": "Super Skate Jumper",
-    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-09-30-at-14.33.37.png",
-    "linkToGoogleStore": "https://app.adjust.com/q7rqc0k?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fsuperskatejumper&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.superskatejumper&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1628553716",
-    "linkToAppleStore": "https://app.adjust.com/q7rqc0k?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fsuperskatejumper&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.superskatejumper&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1628553716",
-    "linksToVideo": [
-      "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_001.mp4",
-      "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_001.mp4",
-      "https://media.publit.io/file/crosspromo/SuperSkateJumper/Super_Skater_Cross_Promo_500px_003.mp4"
-    ],
-    "priority": 3
+    "priority": 6
   },
   {
     "appName": "Barrel Roller",
     "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-09-30-at-14.33.26.png",
-    "linkToGoogleStore": "https://app.adjust.com/x4q2bsv?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fbarrelroller&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.barrelroller&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1525694022",
-    "linkToAppleStore": "https://app.adjust.com/x4q2bsv?label=CrossPromoClick&deeplink=myapp%3A%2F%2Fbarrelroller&redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tummygames.barrelroller&redirect_ios=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1525694022",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.barrelroller",
+    "linkToAppleStore": "https://apps.apple.com/us/app/barrel-roller/id1525694022",
     "linksToVideo": [
-      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_001.mp4",
-      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_002.mp4",
-      "https://media.publit.io/file/crosspromo/BarrelRoller/Barrel_Roller_Cross_Promo_500px_003.mp4"
+      "https://media.publit.io/file/crosspromo/BarrelRoller/BarrelRoller_MarketingVideo_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/BarrelRoller/BarrelRoller_MarketingVideo_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/BarrelRoller/BarrelRoller_MarketingVideo_CrossPromo_1-1_03.mp4"
+    ],
+    "priority": 5
+  },
+  {
+    "appName": "Train Zoom",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-13.21.47.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.trainzoom",
+    "linkToAppleStore": "https://apps.apple.com/us/app/train-zoom-delivery/id1633130098",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/TrainZoom/TrainZoom3D_MarketingVideo_CrossPromo_1-1_0.mp4",
+      "https://media.publit.io/file/crosspromo/TrainZoom/TrainZoom3D_MarketingVideo_CrossPromo_1-1_01.mp4"
+    ],
+    "priority": 3
+  },
+  {
+    "appName": "Square Em All",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-13.55.20.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.squareemall",
+    "linkToAppleStore": "https://apps.apple.com/us/app/square-em-all/id1636472629",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/SquareEmAll/Square-EmAll_MarketingVideos_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/SquareEmAll/Square-EmAll_MarketingVideos_CrossPromo_1-1_02.mp4"
     ],
     "priority": 2
+  },
+  {
+    "appName": "Solitaire Merge",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-13.59.49.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.solitairemerge",
+    "linkToAppleStore": "https://apps.apple.com/us/app/solitaire-merge/id6443542225",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/SolitaireMerge/SolitaireMerge_MarketingVideo_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/SolitaireMerge/SolitaireMerge_MarketingVideo_CrossPromo_1-1_02.mp4"
+    ],
+    "priority": 5
+  },
+  {
+    "appName": "Merge Stacks",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-14.03.45.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.mergestacks",
+    "linkToAppleStore": "https://apps.apple.com/us/app/merge-stacks/id6443816519",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/MergeStacks/MergeStacks_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/MergeStacks/MergeStacks_CrossPromo_1-1_02.mp4"
+    ],
+    "priority": 5
+  },
+  {
+    "appName": "Stack Run",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-14.12.24.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.stackrun",
+    "linkToAppleStore": "https://apps.apple.com/us/app/stack-run-bricks-world/id1603233269",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/StackRun/StackRun_MarketingVideo_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/StackRun/StackRun_MarketingVideo_CrossPromo_1-1_01.mp4"
+    ],
+    "priority": 4
+  },
+  {
+    "appName": "Pair It! 3D",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-14.28.41.png",
+    "linkToGoogleStore": "https://apps.apple.com/us/app/pair-it-3d/id1633955488",
+    "linkToAppleStore": "https://apps.apple.com/us/app/pair-it-3d/id1633955488",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/PairIt3D/PairIt3D_MarketingVideo_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/PairIt3D/PairIt3D_MarketingVideo_CrossPromo_1-1_01.mp4"
+    ],
+    "priority": 3
+  },
+  {
+    "appName": "Merge Arrows",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-14.30.23.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.mergearrows",
+    "linkToAppleStore": "https://apps.apple.com/us/app/archer-merge-arrows/id1631294975",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/MergeArrows/MergeArrows_MarketingVideo_CrossPromo_1-1_01.mp4",
+      "https://media.publit.io/file/crosspromo/MergeArrows/MergeArrows_MarketingVideo_CrossPromo_1-1_02.mp4"
+    ],
+    "priority": 4
+  },
+  {
+    "appName": "Ladder Master",
+    "linkToIcon": "https://media.publit.io/file/crosspromo/icons/Screenshot-2022-12-07-at-14.37.50.png",
+    "linkToGoogleStore": "https://play.google.com/store/apps/details?id=com.tummygames.laddermasterrunner",
+    "linkToAppleStore": "https://apps.apple.com/us/app/ladder-master-color-run/id1605948343",
+    "linksToVideo": [
+      "https://media.publit.io/file/crosspromo/LadderMaster/LadderMaster_MarketingVideo_CrossPromo_1-1_02.mp4",
+      "https://media.publit.io/file/crosspromo/LadderMaster/LadderMaster_MarketingVideo_CrossPromo_1-1_01.mp4"
+    ],
+    "priority": 4
   }
 ]
