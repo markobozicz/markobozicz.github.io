@@ -1,13 +1,14 @@
 <html>
-    <head>
-        <title>Marko Bozic</title>
-        <script type="module" src="script.js"></script>
-        <link rel="stylesheet" href="style.css">
-        <link href='https://css.gg/headset.css' rel='stylesheet'>
-        <link href='https://css.gg/games.css' rel='stylesheet'>
-        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet">
-        
-    </head>
+<head>
+    <title>Marko Bozic</title>
+    <script type="module" src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://css.gg/headset.css' rel='stylesheet'>
+    <link href='https://css.gg/games.css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+</head>
     <body>
         <div class="bg bg1"></div>
         <div class="bg bg2"></div>
@@ -21,7 +22,7 @@
                     </div>
                     <div class="q3Height" id="mainContent" >
                         <div class="fullSize redCol">
-                            <!--<video src="volleybeans f4.mp4"></video>-->
+
 
 
 
@@ -62,7 +63,13 @@
                         <h1>MY WORK</h1></div>
                     <div class="q3Height " id="workContent" >
                         <div class="fullSize">
-                            
+                            <model-viewer src="model.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+                                <div class="progress-bar hide" slot="progress-bar">
+                                    <div class="update-bar"></div>
+                                </div>
+                            </model-viewer>
+
+
 
                         </div>
                     </div>

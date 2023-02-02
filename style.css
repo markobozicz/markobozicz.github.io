@@ -131,6 +131,14 @@ body::-webkit-scrollbar-track{
     background: var(--col-blue);
 }
 
+model-viewer{
+	height: 50vh;
+	width: 100%;
+	position: relative;
+	
+}
+
+
 /* small screens */
 
 @media only screen and (max-width: 600px){
@@ -155,4 +163,7 @@ body::-webkit-scrollbar-track{
 
 
 
+}
+*{
+	border: 1px solid yellow;
 }
