@@ -1,0 +1,56 @@
+{
+    "defaultConfig": {
+        "usingInterstitialAds": true,
+        "usingBannerAds": true,
+        "usingCoinOffer": false,
+        "usingKeys": false,
+        "levelEndMultiplier": false,
+        "usingSpinWheel": false,
+        "usingWorlds": false,
+        "usingWorldOffers": false,
+        "worldsConfig": {
+            "allWorldsSameClaim": true,
+            "claimType": 1
+        },
+        "skinsConfig": {
+            "allSkinsSameClaim": true,
+            "claimType": 2
+        }
+    },
+    "test_a": {
+        "usingInterstitialAds": true,
+        "usingBannerAds": true,
+        "usingCoinOffer": true,
+        "usingKeys": true,
+        "levelEndMultiplier": true,
+        "usingSpinWheel": true,
+        "usingWorlds": false,
+        "usingWorldOffers": false,
+        "worldsConfig": {
+            "allWorldsSameClaim": false,
+            "claimType": 0
+        },
+        "skinsConfig": {
+            "allSkinsSameClaim": true,
+            "claimType": 0
+        }
+    },
+    "test_b": {
+        "usingInterstitialAds": true,
+        "usingBannerAds": true,
+        "usingCoinOffer": true,
+        "usingKeys": true,
+        "levelEndMultiplier": true,
+        "usingSpinWheel": true,
+        "usingWorlds": true,
+        "usingWorldOffers": true,
+        "worldsConfig": {
+            "allWorldsSameClaim": true,
+            "claimType": 0
+        },
+        "skinsConfig": {
+            "allSkinsSameClaim": true,
+            "claimType": 1
+        }
+    }
+}
