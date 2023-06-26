@@ -1,5 +1,6 @@
 {
     "defaultConfig": {
+        "configCodename": "plaincfg",
         "usingInterstitialAds": true,
         "usingBannerAds": true,
         "usingCoinOffer": false,
@@ -18,6 +19,7 @@
         }
     },
     "test_a": {
+        "configCodename": "woworlds",
         "usingInterstitialAds": true,
         "usingBannerAds": true,
         "usingCoinOffer": true,
@@ -36,6 +38,7 @@
         }
     },
     "test_b": {
+        "configCodename": "witworlds",
         "usingInterstitialAds": true,
         "usingBannerAds": true,
         "usingCoinOffer": true,
