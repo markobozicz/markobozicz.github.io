@@ -7,8 +7,8 @@
         "usingKeys": false,
         "levelEndMultiplier": false,
         "usingSpinWheel": false,
-        "usingWorlds": false,
-        "usingWorldOffers": false,
+        "usingWorlds": true,
+        "usingWorldOffers": true,
         "worldsConfig": {
             "allWorldsSameClaim": true,
             "claimType": 1
