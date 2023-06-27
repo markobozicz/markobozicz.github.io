@@ -1,4 +1,5 @@
 {
+    "testingFinished": true,
     "defaultConfig": {
         "configCodename": "plaincfg",
         "usingInterstitialAds": true,
