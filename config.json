@@ -1,9 +1,11 @@
 {
     "testingFinished": true,
     "defaultConfig": {
-        "configCodename": "plaincfg",
+        "configCodename": "gc_all&coins",
         "usingInterstitialAds": true,
         "usingBannerAds": true,
+        "usingIAPShop": true,
+        "usingCoins": true,
         "usingCoinOffer": true,
         "usingKeys": true,
         "levelEndMultiplier": true,
@@ -20,28 +22,32 @@
         }
     },
     "test_a": {
-        "configCodename": "woworlds",
+        "configCodename": "gc_multirv",
         "usingInterstitialAds": true,
         "usingBannerAds": true,
-        "usingCoinOffer": true,
-        "usingKeys": true,
-        "levelEndMultiplier": true,
-        "usingSpinWheel": true,
-        "usingWorlds": false,
+        "usingIAPShop": false,
+        "usingCoins": false,
+        "usingCoinOffer": false,
+        "usingKeys": false,
+        "levelEndMultiplier": false,
+        "usingSpinWheel": false,
+        "usingWorlds": true,
         "usingWorldOffers": false,
         "worldsConfig": {
-            "allWorldsSameClaim": false,
+            "allWorldsSameClaim": true,
             "claimType": 0
         },
         "skinsConfig": {
             "allSkinsSameClaim": true,
-            "claimType": 0
+            "claimType": 1
         }
     },
     "test_b": {
-        "configCodename": "witworlds",
-        "usingInterstitialAds": true,
+        "configCodename": "gc_nointers",
+        "usingInterstitialAds": false,
         "usingBannerAds": true,
+        "usingIAPShop": true,
+        "usingCoins": true,
         "usingCoinOffer": true,
         "usingKeys": true,
         "levelEndMultiplier": true,
@@ -50,11 +56,11 @@
         "usingWorldOffers": true,
         "worldsConfig": {
             "allWorldsSameClaim": true,
-            "claimType": 0
+            "claimType": 1
         },
         "skinsConfig": {
             "allSkinsSameClaim": true,
-            "claimType": 1
+            "claimType": 2
         }
     }
 }
