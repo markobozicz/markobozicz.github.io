@@ -1,93 +1,40 @@
-<html>
-<head>
-    <title>Marko Bozic</title>
-    <script type="module" src="script.js"></script>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://css.gg/headset.css' rel='stylesheet'>
-    <link href='https://css.gg/games.css' rel='stylesheet'>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | 365-football</title>
+  </head>
+  <body style="text-align: center; padding: 0; border: 0; margin: 0;">
+    <canvas id="unity-canvas" width=960 height=540 tabindex="-1" style="width: 960px; height: 540px; background: #231F20"></canvas>
+    <script src="Build/football.loader.js"></script>
+    <script>
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
 
-</head>
-    <body>
-        <div class="bg bg1"></div>
-        <div class="bg bg2"></div>
-        <div class="bg bg3"></div>
+        var canvas = document.querySelector("#unity-canvas");
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
+        canvas.style.position = "fixed";
 
-        <div class="fullSize mainContainer mobileVerticalContainer" id="mainContainer">
-            <div class="halfWidth verticalContainer" id="side1">
-                <div class="halfHeight rounded blueTransparent verticalContainer innerShadow" id="leftUp">
-                    <div class="quarterHeight horizontalContainer">
-                        <h1>MARKO BOZIC</h1>
-                    </div>
-                    <div class="q3Height" id="mainContent" >
-                        <div class="fullSize redCol">
+        document.body.style.textAlign = "left";
+      }
 
-
-
-
-
-                        </div>
-                    </div>
-                </div>
-                <div class="halfHeight rounded blueTransparent verticalContainer innerShadow" id="leftDown">
-                    <div class="quarterHeight horizontalContainer">
-                        <h1>ABOUT ME</h1>
-
-                    </div>
-                    <div class="q3Height" id="aboutContent">
-                        <div class="fullSize ">
-                            <p>
-                                I love to <a href="CrossPromo.json">create digital things</a> so I've learned to use <a href="CrossPromoSettings.json">various tools</a>
-                                for various purposes.
-                                Ranging from making <a href="config.json">games</a> in Unity, <a href="GameSettings.json">which is my</a>  main passion, to making music in Ableton as my favourite hobby.
-                                My games could be player at <a href="https://markobozicz.itch.io" target="_blank"> my itch.io page</a>,
-                                and some of the code could be viewed at <a href="https://github.com/markobozicz" target="_blank">my github profile</a>.
-                                You also could listen to music which I make at<a href="https://soundcloud.com/ythatname" target="_blank">
-                                    my
-                                    soundcloud page
-                                </a>.
-                            </p>
-
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="halfWidth verticalContainer" id="side2">
-                <div class="halfHeight rounded blueTransparent verticalContainer innerShadow" id="rightUp">
-                    <div class="quarterHeight horizontalContainer">
-                        <h1>MY WORK</h1></div>
-                    <div class="q3Height " id="workContent" >
-                        <div class="fullSize">
-                            <model-viewer src="model.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
-                                <div class="progress-bar hide" slot="progress-bar">
-                                    <div class="update-bar"></div>
-                                </div>
-                            </model-viewer>
-
-
-
-                        </div>
-                    </div>
-                </div>
-                <div class="halfHeight rounded blueTransparent verticalContainer innerShadow" id="rightDown">
-                    <div class="quarterHeight horizontalContainer">
-                        <h1>CONTACT ME</h1></div>
-                    <div class="q3Height" id="contactContent" >
-                        <div class="fullSize redCol">
-
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </body>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/football.data.gz",
+        frameworkUrl: "Build/football.framework.js.gz",
+        codeUrl: "Build/football.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "365-football",
+        productVersion: "0.1",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      });
+    </script>
+  </body>
 </html>
