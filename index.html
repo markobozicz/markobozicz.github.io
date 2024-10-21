@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity Web Player | 365-iqos-kviz</title>
+    <title>Unity WebGL Player | lord-of-the-flames</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
   </head>
   <body>
     <div id="unity-container">
-      <canvas id="unity-canvas" width=1000 height=1000 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=1500 height=1500 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,15 +57,14 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/w3.loader.js";
+      var loaderUrl = buildUrl + "/msewp.loader.js";
       var config = {
-        arguments: [],
-        dataUrl: buildUrl + "/w3.data",
-        frameworkUrl: buildUrl + "/w3.framework.js",
-        codeUrl: buildUrl + "/w3.wasm",
+        dataUrl: buildUrl + "/msewp.data.br",
+        frameworkUrl: buildUrl + "/msewp.framework.js.br",
+        codeUrl: buildUrl + "/msewp.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "365-iqos-kviz",
+        productName: "lord-of-the-flames",
         productVersion: "1.0",
         showBanner: unityShowBanner,
       };

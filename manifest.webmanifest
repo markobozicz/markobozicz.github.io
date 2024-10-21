@@ -1,11 +1,11 @@
 {
-    "name": "365-iqos-kviz",
-    "short_name": "365-iqos-kviz",
+    "name": "lord-of-the-flames",
+    "short_name": "lord-of-the-flames",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "365Labs",
+    "description": "Mineswepp",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",

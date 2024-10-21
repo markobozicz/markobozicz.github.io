@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-365-iqos-kviz-1.0";
+const cacheName = "DefaultCompany-lord-of-the-flames-1.0";
 const contentToCache = [
-    "Build/w3.loader.js",
-    "Build/w3.framework.js",
-    "Build/w3.data",
-    "Build/w3.wasm",
+    "Build/msewp.loader.js",
+    "Build/msewp.framework.js.br",
+    "Build/msewp.data.br",
+    "Build/msewp.wasm.br",
     "TemplateData/style.css"
 
 ];
