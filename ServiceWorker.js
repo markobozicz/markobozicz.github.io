@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-365-iqos-kviz-1.0";
 const contentToCache = [
-    "Build/w2.loader.js",
-    "Build/w2.framework.js",
-    "Build/w2.data",
-    "Build/w2.wasm",
+    "Build/w3.loader.js",
+    "Build/w3.framework.js",
+    "Build/w3.data",
+    "Build/w3.wasm",
     "TemplateData/style.css"
 
 ];

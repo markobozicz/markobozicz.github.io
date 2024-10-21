@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | 365-iqos-kviz</title>
+    <title>Unity Web Player | 365-iqos-kviz</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
@@ -57,11 +57,12 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/w2.loader.js";
+      var loaderUrl = buildUrl + "/w3.loader.js";
       var config = {
-        dataUrl: buildUrl + "/w2.data",
-        frameworkUrl: buildUrl + "/w2.framework.js",
-        codeUrl: buildUrl + "/w2.wasm",
+        arguments: [],
+        dataUrl: buildUrl + "/w3.data",
+        frameworkUrl: buildUrl + "/w3.framework.js",
+        codeUrl: buildUrl + "/w3.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "365-iqos-kviz",
