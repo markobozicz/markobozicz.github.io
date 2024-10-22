@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-lord-of-the-flames-1.0";
 const contentToCache = [
-    "Build/msewpnewcol.loader.js",
-    "Build/msewpnewcol.framework.js",
-    "Build/msewpnewcol.data",
-    "Build/msewpnewcol.wasm",
+    "Build/w1.loader.js",
+    "Build/w1.framework.js",
+    "Build/w1.data",
+    "Build/w1.wasm",
     "TemplateData/style.css"
 
 ];
