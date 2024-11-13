@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | lord-of-the-flames</title>
+    <title>Marko Bozic</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
@@ -57,15 +57,16 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/w1.loader.js";
+      var loaderUrl = buildUrl + "/webpage.loader.js";
       var config = {
-        dataUrl: buildUrl + "/w1.data",
-        frameworkUrl: buildUrl + "/w1.framework.js",
-        codeUrl: buildUrl + "/w1.wasm",
+        arguments: [],
+        dataUrl: buildUrl + "/webpage.data",
+        frameworkUrl: buildUrl + "/webpage.framework.js",
+        codeUrl: buildUrl + "/webpage.wasm",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "lord-of-the-flames",
-        productVersion: "1.0",
+        companyName: "MarkoBozic",
+        productName: "WebPage",
+        productVersion: "0.1.0",
         showBanner: unityShowBanner,
       };
 

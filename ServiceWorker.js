@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-lord-of-the-flames-1.0";
+const cacheName = "MarkoBozic-WebPage-0.1.0";
 const contentToCache = [
-    "Build/w1.loader.js",
-    "Build/w1.framework.js",
-    "Build/w1.data",
-    "Build/w1.wasm",
+    "Build/webpage.loader.js",
+    "Build/webpage.framework.js",
+    "Build/webpage.data",
+    "Build/webpage.wasm",
     "TemplateData/style.css"
 
 ];
